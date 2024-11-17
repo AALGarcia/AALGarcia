@@ -11,9 +11,9 @@ Soy programadora y entusiasta de la tecnología, actualmente trabajando en un pr
 ## 🛠 Tecnologías y Herramientas
 ¡Aquí están algunas de las tecnologías con las que trabajo!
 
-- 💻 Lenguajes de Programación: Python, JavaScript, Java, PHP, HTML, CSS, SQL.
-- 🔧 Herramientas: Git, GitHub, VSCode, Node.js, MySQL.
-- 🌐 Frameworks: React, Express, Django, Flask.
+- 💻 Lenguajes de Programación: Python, JavaScript, Java, HTML, CSS.
+- 🔧 Herramientas: Git, GitHub, VSCode.
+- 🌐 Frameworks: 
 
 ## 📦 Proyectos
 
