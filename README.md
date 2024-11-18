@@ -21,10 +21,10 @@ Soy programadora y entusiasta de la tecnología, actualmente trabajando en un pr
 Una tienda en línea dedicada a la venta de uniformes escolares. El proyecto permite a los usuarios explorar y comprar una variedad de uniformes adaptados a las necesidades escolares. Utilizando tecnologías como **HTML**, **CSS**, **JavaScript**, y **GitHub Pages** para una experiencia rápida y accesible.
 
 *Actualizar en:*
-- Busqueda
-- Inicio de sesion
-- Conexion a base de datos
-- Carrito
+> - Busqueda
+> - Inicio de sesion
+> - Conexion a base de datos
+> - Carrito
 
 ---
 
