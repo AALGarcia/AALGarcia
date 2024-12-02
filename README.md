@@ -2,7 +2,7 @@
 
 ¡Bienvenida/o a mi perfil de GitHub! Soy una desarrolladora web en formación apasionada por la tecnología, el diseño y el aprendizaje continuo. Además, tengo experiencia en ventas y atención al cliente, lo que me ha permitido desarrollar habilidades de comunicación y gestión de proyectos.
 
-
+![Descripción de la imagen](https://raw.githubusercontent.com/AALGarcia/AALGarcia/main/aalgarcia_github_profile.png)
 
 ## 🚀 Acerca de mí
 Soy programadora en formación, trabajando en el desarrollo de proyectos web. Mi enfoque está en aprender y mejorar mis habilidades en desarrollo web, mientras aplico mis conocimientos en ventas para crear soluciones orientadas al usuario.
