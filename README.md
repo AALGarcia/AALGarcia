@@ -1,30 +1,32 @@
 # Hola, soy AALGarcia 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy una desarrolladora apasionada por la tecnología, el diseño y el aprendizaje continuo.
+¡Bienvenida/o a mi perfil de GitHub! Soy una desarrolladora web en formación apasionada por la tecnología, el diseño y el aprendizaje continuo. Además, tengo experiencia en ventas y atención al cliente, lo que me ha permitido desarrollar habilidades de comunicación y gestión de proyectos.
+
+
 
 ## 🚀 Acerca de mí
-Soy programadora y entusiasta de la tecnología, actualmente trabajando en un proyecto. Siempre estoy buscando aprender y mejorar mis habilidades.
+Soy programadora en formación, trabajando en el desarrollo de proyectos web. Mi enfoque está en aprender y mejorar mis habilidades en desarrollo web, mientras aplico mis conocimientos en ventas para crear soluciones orientadas al usuario.
 
-- 🔭 Actualmente, estoy trabajando en un ecommerce para una tienda de uniformes escolares.
-- 🌱 Actualmente, estoy aprendiendo [COBOL].
+- 🔭 Actualmente, estoy desarrollando un ecommerce para una tienda de uniformes escolares, donde aplico mis conocimientos básicos de HTML, CSS y JavaScript para mejorar la experiencia del usuario.
+- 🌱 Actualmente, estoy aprendiendo COBOL para fortalecer mis fundamentos de programación y ampliar mi comprensión de diferentes lenguajes.
 
 ## 🛠 Tecnologías y Herramientas
-¡Aquí están algunas de las tecnologías con las que trabajo!
+Estas son algunas de las tecnologías y herramientas con las que trabajo:
 
-- 💻 Lenguajes de Programación: Python, JavaScript, Java, HTML, CSS.
-- 🔧 Herramientas: Git, GitHub, VSCode.
+- 💻 Lenguajes de Programación: Python, JavaScript, HTML, CSS
+- 🔧 Herramientas: Git, GitHub, VSCode
 - 🌐 Frameworks: 
 
 ## 📦 Proyectos
 
 ### 🚀 [Pagina-UNIFORMES](https://aalgarcia.github.io/Pagina-UNIFORMES/)
-Una tienda en línea dedicada a la venta de uniformes escolares. El proyecto permite a los usuarios explorar y comprar una variedad de uniformes adaptados a las necesidades escolares. Utilizando tecnologías como **HTML**, **CSS**, **JavaScript**, y **GitHub Pages** para una experiencia rápida y accesible.
+Este proyecto consiste en una tienda en línea dedicada a la venta de uniformes escolares. Utilizando ***HTML, CSS, JavaScript*** y ***GitHub Pages***, estoy trabajando para ofrecer una experiencia de compra rápida y accesible para los usuarios.
 
-*Actualizar en:*
-> - Busqueda
-> - Inicio de sesion
-> - Conexion a base de datos
-> - Carrito
+Próximos pasos para actualizar:
+- Implementación de búsqueda
+- Sistema de inicio de sesión
+- Conexión a base de datos
+- Funcionalidad de carrito de compras
 
 ---
 
