@@ -15,7 +15,7 @@ Estas son algunas de las tecnologías y herramientas con las que trabajo:
 
 - 💻 Lenguajes de Programación: Python, JavaScript, HTML, CSS
 - 🔧 Herramientas: Git, GitHub, VSCode
-- 🌐 Frameworks: 
+- 🌐 Frameworks: Bootstrap
 
 ## 📦 Proyectos
 
