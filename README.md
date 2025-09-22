@@ -31,5 +31,5 @@ Próximos pasos para actualizar:
 ---
 
 🔗 Conéctate conmigo:
-
+- LinkedIn: [aalgarcia](https://www.linkedin.com/in/aalgarcia)
 
