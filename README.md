@@ -13,9 +13,10 @@ Soy programadora en formación, trabajando en el desarrollo de proyectos web. Mi
 ## 🛠 Tecnologías y Herramientas
 Estas son algunas de las tecnologías y herramientas con las que trabajo:
 
-- 💻 Lenguajes de Programación: Python, JavaScript, HTML, CSS
+- 💻 Lenguajes de Programación: Java, Python, JavaScript, TypeScript, HTML, CSS
 - 🔧 Herramientas: Git, GitHub, VSCode
-- 🌐 Frameworks: Bootstrap
+- 🌐 Frameworks: Bootstrap, Spring(SpringBoot), NestJS
+- 📚 Librería: React
 
 ## 📦 Proyectos
 
